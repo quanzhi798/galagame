@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1775117390991",
+    "name": "财阀生活",
+    "description": "描述",
+    "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=script%20killer%20cover&image_size=landscape_16_9",
+    "aiEndpoint": "http://localhost:3001/api/ai/chat",
+    "endings": "多种结局取决于你的选择",
+    "creatorId": "1775110505222",
+    "createdAt": "2026-04-02T08:09:50.991Z"
+  },
+  {
+    "id": "1775713368779",
+    "name": "财阀生活",
+    "description": "财阀生活",
+    "cover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=script%20killer%20cover&image_size=landscape_16_9",
+    "aiModel": "free",
+    "endings": "多种结局取决于你的选择",
+    "creatorId": "1775110505222",
+    "createdAt": "2026-04-09T05:42:48.779Z"
+  }
+]

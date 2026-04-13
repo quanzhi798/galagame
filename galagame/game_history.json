@@ -1,0 +1,31 @@
+{
+  "1775110505222": [
+    {
+      "scriptId": "1775713216035",
+      "scriptName": "123",
+      "scriptDescription": "123",
+      "scriptCover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=script%20killer%20cover&image_size=landscape_16_9",
+      "firstPlayedAt": "2026-04-09T05:40:53.050Z",
+      "lastPlayedAt": "2026-04-09T05:40:53.050Z",
+      "totalMessages": 1
+    },
+    {
+      "scriptId": "1775117390991",
+      "scriptName": "财阀生活",
+      "scriptDescription": "描述",
+      "scriptCover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=script%20killer%20cover&image_size=landscape_16_9",
+      "firstPlayedAt": "2026-04-09T05:43:00.405Z",
+      "lastPlayedAt": "2026-04-09T05:44:18.422Z",
+      "totalMessages": 2
+    },
+    {
+      "scriptId": "1775713368779",
+      "scriptName": "财阀生活",
+      "scriptDescription": "财阀生活",
+      "scriptCover": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=script%20killer%20cover&image_size=landscape_16_9",
+      "firstPlayedAt": "2026-04-09T05:48:13.341Z",
+      "lastPlayedAt": "2026-04-09T06:47:53.580Z",
+      "totalMessages": 8
+    }
+  ]
+}
