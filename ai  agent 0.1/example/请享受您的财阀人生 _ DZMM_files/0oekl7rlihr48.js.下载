@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,254655,(o,c,e)=>{c.exports={copyright:"© {{year}} DZMM. 保留所有权利。",appDownload:"App 下载",communityGuidelines:"社区公约",termsOfService:"服务协议",privacyPolicy:"隐私权政策",contactUs:"联系我们"}}]);
